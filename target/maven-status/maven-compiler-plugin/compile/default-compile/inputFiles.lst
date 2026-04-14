@@ -1,4 +1,4 @@
-C:\Projects\rental-app-custom-util-library\src\main\java\com\example\library\AESEncryptor.java
-C:\Projects\rental-app-custom-util-library\src\main\java\com\example\library\EncryptedFieldConverter.java
-C:\Projects\rental-app-custom-util-library\src\main\java\com\example\library\InputSanitizer.java
-C:\Projects\rental-app-custom-util-library\src\main\java\com\example\library\ImageThumbnailUtil.java
+C:\Projects\rental-app-custom-util-library\src\main\java\com\rentalapp\util\EncryptedFieldConverter.java
+C:\Projects\rental-app-custom-util-library\src\main\java\com\rentalapp\util\InputSanitizer.java
+C:\Projects\rental-app-custom-util-library\src\main\java\com\rentalapp\util\ImageThumbnailUtil.java
+C:\Projects\rental-app-custom-util-library\src\main\java\com\rentalapp\util\AESEncryptor.java
