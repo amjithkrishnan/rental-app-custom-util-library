@@ -42,7 +42,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/YOUR_GITHUB_USERNAME/rental-app-custom-util-library</url>
+            <url>https://maven.pkg.github.com/amjithkrishnan/rental-app-custom-util-library</url>
         </repository>
     </distributionManagement>
 

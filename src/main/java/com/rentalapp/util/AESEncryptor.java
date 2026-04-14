@@ -1,4 +1,4 @@
-package com.example.library;
+package com.rentalapp.util;
 
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;

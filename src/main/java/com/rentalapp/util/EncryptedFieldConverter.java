@@ -1,4 +1,4 @@
-package com.example.library;
+package com.rentalapp.util;
 
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;
