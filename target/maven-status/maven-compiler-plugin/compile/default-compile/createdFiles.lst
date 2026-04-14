@@ -1,0 +1,4 @@
+com\example\library\InputSanitizer.class
+com\example\library\AESEncryptor.class
+com\example\library\ImageThumbnailUtil.class
+com\example\library\EncryptedFieldConverter.class
